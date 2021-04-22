@@ -1,3 +1,4 @@
+name: moxie CI
 on:
   push:
     branches: [ $default-branch ]
