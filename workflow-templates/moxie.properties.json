@@ -1,4 +1,5 @@
 {
     "name": "moxie",
     "description": "moxieworkflow template.",
+    "iconName": "example-icon"
 }
